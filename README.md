@@ -2,7 +2,7 @@
 GG SHELL+CMD
 HDSETUP:
 git clone https://github.com/DucCheChauVien/AKAAPANLE323
-pip install pystyle
-pip install asciimatics
+/pip install pystyle
+/pip install asciimatics
 cd AKAAPANLE323
 python3 main.py
